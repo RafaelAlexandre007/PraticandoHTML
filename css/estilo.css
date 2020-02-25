@@ -19,6 +19,8 @@ body {
 	top: 0;
 }
 
+
+
 #area {
 	width: 720px;
 	margin: 0 auto;
@@ -39,9 +41,11 @@ body {
 }
 
 #postagem {
+	
 	background: #fff;
 	padding: 10px;
 	margin-bottom: 10px;
+	
 }
 
 h2 {
@@ -90,6 +94,7 @@ a:active {
 }
 
 .img-postagem{
+	
 	float: left;
 	margin:0 10px 5px 0;
 }
@@ -99,4 +104,5 @@ a:active {
 	padding-left: 5px;
 	display: block;
 	margin-top: 10px;
+	
 }
